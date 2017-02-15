@@ -1,5 +1,6 @@
 package com.spring.controller;
 
+//loginnew
 public class LoginBean {
 
 	private String userName;
